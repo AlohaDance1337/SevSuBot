@@ -1,0 +1,6 @@
+*__pycache__
+/.venv
+.config.ini
+/logs
+/results
+.log
